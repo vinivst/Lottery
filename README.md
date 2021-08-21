@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/vinivst/LotteryClient/blob/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/lottery.png">
+  <a href="https://raw.githubusercontent.com/vinivst/LotteryClient/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/lottery.png">
     <img src="client/public/lottery.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -74,7 +74,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/vinivst/LotteryClient/blob/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/product-screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/vinivst/LotteryClient/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/product-screenshot.png)
 
 A simple Lottery simulation implemented in Rinkeby Test Network that allows you to:
 
