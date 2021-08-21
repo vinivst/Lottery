@@ -24,8 +24,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://raw.githubusercontent.com/vinivst/LotteryClient/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/lottery.png">
-    <img src="client/public/lottery.png" alt="Logo" width="80" height="80">
+  <a href="https://desolate-ocean-45261.herokuapp.com/">
+    <img src="https://raw.githubusercontent.com/vinivst/LotteryClient/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/lottery.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Lottery Smart Contract</h3>
@@ -74,7 +74,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/vinivst/LotteryClient/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/product-screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](https://desolate-ocean-45261.herokuapp.com/)
 
 A simple Lottery simulation implemented in Rinkeby Test Network that allows you to:
 
@@ -208,4 +208,4 @@ Project Link: [https://github.com/vinivst/Lottery](https://github.com/vinivst/Lo
 [license-url]: https://github.com/vinivst/Lottery/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vinivst/
-[product-screenshot]: client/public/product-screenshot.png
+[product-screenshot]: https://raw.githubusercontent.com/vinivst/LotteryClient/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/product-screenshot.png
