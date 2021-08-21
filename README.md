@@ -142,6 +142,7 @@ You need to have npm installed.
    ```
 8. Change to client directory and run react
    ```sh
+   cd client
    npm start
    ```
 9. Enjoy your own Lottery! :smile:
