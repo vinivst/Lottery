@@ -62,6 +62,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#tests">Tests</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -152,6 +153,16 @@ Users can buy tickets (Metamask didn't shows in the gifs):
 When we have at least 3 participants, the Lottery Owner can pick a winner:
 
 ![Pick Winner](https://raw.githubusercontent.com/vinivst/LotteryClient/00e42e4d48bcdd8cdae19d0df1e48d2ab2289824/public/pickWinner.gif)
+
+<!-- TESTS -->
+
+## Tests
+
+You can see all the tests inside the test folder. The tests were all made using Truffle and Web3. To run the tests simply use:
+
+```sh
+truffle test
+```
 
 <!-- ROADMAP -->
 
