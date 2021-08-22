@@ -114,33 +114,39 @@ You need to have npm installed.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo (--recurse-submodules to include the client's submodule folder)
    ```sh
-   git clone https://github.com/vinivst/Lottery.git
+   git clone --recurse-submodules https://github.com/vinivst/Lottery.git
    ```
-2. Install NPM packages
+2. Install NPM packages in project ("backend")
    ```sh
    npm install
    ```
-3. Register a new account in [Infura](https://infura.io/) and create a new project to get your rinkeby key at
+3. Install NPM packages in client
+   ```sh
+   cd client
+   npm install
+   ```
+4. Register a new account in [Infura](https://infura.io/) and create a new project to get your rinkeby key at
    https://infura.io/dashboard/ethereum
 
-4. Create a .env file at root path
+5. Create a .env file at root path
 
-5. Create the MNEMONIC (12 words seed phrase from your wallet) and INFURA_KEY (that you got from step 3) inside .env and save
+6. Create the MNEMONIC (12 words seed phrase from your wallet) and INFURA_KEY (that you got from step 3) inside .env and save
    ```sh
    MNEMONIC = globe nephew genre emotion morning best penalty trade bid glare unaware dragon
    INFURA_KEY = https://rinkeby.infura.io/v3/you_key_here
    ```
-6. Deploy your smart contracts
+7. Deploy your smart contracts
    ```sh
    truffle migrate --network rinkeby
    ```
-7. Change to client directory and run react
+8. Change to client directory and run react
    ```sh
+   cd client
    npm start
    ```
-8. Enjoy your own Lottery! :smile:
+9. Enjoy your own Lottery! :smile:
 
 <!-- USAGE EXAMPLES -->
 
